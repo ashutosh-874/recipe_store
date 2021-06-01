@@ -10,7 +10,7 @@ Check it live here: https://ashutosh-874.github.io/recipe_store/
 
 ```bash
 git clone https://github.com/ashutosh-874/recipe_store.git
-cd coders_store
+cd recipe_store
 ```
 
 2 - Install Dependencies
